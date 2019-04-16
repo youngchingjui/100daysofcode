@@ -35,6 +35,12 @@ We need to design the report
 - Pie chart?
 - Breakdown of language - pie chart
 
+### How do I use Github?
+Great question. There's a lot of great resources and tutorials out there to learn how to use Github.
+One of the better ones comes from Github labs:
+https://lab.github.com/githubtraining/introduction-to-github
+Please feel free to try it out to get yourself familiar with this tool!
+
 ## Pre-launch requirements / Onboarding (Send out on Thursday)
 - Provide your Github username
 - Post an introduction in the group, with the following
