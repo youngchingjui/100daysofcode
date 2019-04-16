@@ -1,18 +1,15 @@
 # 100daysofcode
-For everyone participating in our 100 Days of Code challenge!
+Welcome to our 100 Days of Code challenge!
 
 ## Objective
 To build a habit of coding by making at least 1 Github commit every day for 100 days
 
 ## Who
-Anyone in the 100 days of Code WeChat group
-[Attach QR code here]
+Anyone in our 100 days of Code WeChat group. Scan the QR code below to join.
+![Group QR Code]("QR Code - WeChat 100DaysOfCode group.jpg")
 
-## Launch date
-Monday 22nd April 2019
-
-## End date
-Wednesday 31st July 2019
+## Time
+Monday 22nd April 2019 to Wednesday 31st July 2019
 
 ## Progress tracking 
 Everyday, we’ll post a summary of everyone who made at least 1 Github post by midnight China time (GMT + 8) (hopefully this can be automated)
