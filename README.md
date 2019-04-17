@@ -6,7 +6,7 @@ To build a habit of coding by making at least 1 Github commit every day for 100 
 
 ## Who
 Anyone in our 100 days of Code WeChat group. Scan the QR code below to join.
-![Group QR Code]("QR Code - WeChat 100DaysOfCode group.jpg")
+![Group QR Code](QR Code - WeChat 100DaysOfCode group.jpg)
 
 ## Time
 Monday 22nd April 2019 to Wednesday 31st July 2019
