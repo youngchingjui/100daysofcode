@@ -1,0 +1,20 @@
+***** Python *****
+https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python
+http://alsweigart.com/ (including Automate the Boring Stuff)
+https://github.com/asweigart
+https://realpython.com/
+https://www.reddit.com/r/learnpython/wiki/index
+https://www.reddit.com/r/learnpython/
+https://github.com/scienceetonnante/Chaos
+https://projecteuler.net/archives
+http://scholar.harvard.edu/files/ambell/files/python_for_economists.pdf?m=1460142126
+
+***** JavaScript *****
+https://play.elevatorsaga.com/
+
+***** Data Science *****
+https://elitedatascience.com/machine-learning-projects-for-beginners
+
+***** Other *****
+https://www.edwardtufte.com/tufte/ (data visualization)
+https://github.com/stanfordjournalism/search-script-scrape (scraping)
