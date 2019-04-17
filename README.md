@@ -6,7 +6,7 @@ To build a habit of coding by coding at least 30 minutes everyday for 100 days
 
 ## Who
 Anyone in our 100 days of Code WeChat group. Scan the QR code below to join.
-![Group QR Code](QR Code - WeChat 100DaysOfCode group.jpg)
+![Group QR Code](QRCode.jpg)
 
 ## Suggested Dates
 Monday 22nd April 2019 to Wednesday 31st July 2019
