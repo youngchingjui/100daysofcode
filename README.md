@@ -18,7 +18,7 @@ Monday 22nd April 2019 to Wednesday 31st July 2019
 * Grace days - sometimes you need a break. Every week, you get 1 free day to skip. These free days do not roll over to the next day
 * At the end of our challenge (31st July 2019), whoever has the most "consistent" will be congratulated with plenty of praise and pats on the back!
 
-### So...how do I use "commit" to Github?
+### So...how do I "commit" to Github?
 Great question. There's a lot of great resources and tutorials out there to learn how to use Github.
 One of the better ones comes from Github labs:
 https://lab.github.com/githubtraining/introduction-to-github
